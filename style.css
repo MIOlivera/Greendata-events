@@ -1,1 +1,28 @@
+header {
+	height: 40% !important;
+	background-image: url('Header2_Pic.jpg'); 
+   	background-size: cover;
+	vertical-align: middle;
+}
 
+h1 { 
+	font-size: 48px
+}
+
+h2 {
+	font-size: 40px
+}
+	
+nav {
+  margin: 0px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+	background-color: #006600;
+	font-size: 125%;
+}
+
+a {
+	margin: 0px;
+	font-size: 25px
+}
